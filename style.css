@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+  overflow-x: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+header h1 a {
+  transition: 0.3s;
+}
+
+header h1 a:hover {
+  color: #ff6b33;
+}
+
+header ul li {
+  margin-right: 20px;
+}
+
+header ul li a {
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+header ul li a:hover {
+  color: #ff6b33;
+}
